@@ -42,7 +42,6 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
-streamlit==1.26.0
 dlib==19.24.2
 opencv-python==4.8.0.74
 numpy==1.23.5
